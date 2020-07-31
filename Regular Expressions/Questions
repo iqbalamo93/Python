@@ -1,0 +1,11 @@
+What is \ used for?
+\ i.e backslash is used for escape Character:
+Match: PerceivedAI.com
+       blahblah.com
+       ranawat.com\singh
+       Question only match.com\singh Ans:  \w+\\singh
+                only .com            Ans: .com\s
+\match exactly :Mr. T                Ans: ^[Mm][rR]\.*\sT
+
+Match words ending with r.
+ and r\b
