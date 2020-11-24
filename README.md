@@ -5,7 +5,7 @@ This repository covers various Python topics.
 <p>Covers Projects from Begginer level to expert.</p>
 
  1. Beginner
-	1.1 PasswordMaker
+	<br>1.1 PasswordMaker
 
 	   User to pass the length and Strength of password required.
 	   Inspired from sam Focht, 
