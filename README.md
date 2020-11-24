@@ -8,9 +8,7 @@ This repository covers various Python topics.
     <p>
    User to pass the length and Strength of password required.
    Inspired from sam, 
-   Follow [here]: https://www.youtube.com/watch?v=3j6v4wBZWR8&t=2996s
-  
-  [link text itself]: http://www.reddit.com
+   Follow [here]: <https://www.youtube.com/watch?v=3j6v4wBZWR8&t=2996s>
     
         
     
