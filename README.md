@@ -6,7 +6,7 @@ This repository covers various Python topics.
 
  1. Beginner
  
-	<br>1.1 PasswordMaker
+	<br>1.1 PasswordMaker<br>
 	   User to pass the length and Strength of password required.
 	   Inspired from sam Focht, 
    Follow [Here](https://www.youtube.com/watch?v=3j6v4wBZWR8&t=2996&ab_channel=freeCodeCamp.org)
